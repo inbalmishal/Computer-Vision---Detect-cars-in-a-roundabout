@@ -5,5 +5,4 @@ The project contains three main parts: stabilizing the video of the cars in the 
 The files in this repository:
 - finalProject - The notebook of the code.
 - P1_roundabout - The original video of the cars in the square.
-- poster - The poster of the project that includes the steps, the tools that used and the conclusion of the project.
 - final_detection - The project result. If you run the code in "finalProject" this video will be created for you.
